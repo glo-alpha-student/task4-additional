@@ -1,25 +1,6 @@
 'use strict';
 
 const title = '              hellooooooooooooooooooooooooooooooooooooooooo   ';
-/*
-function getSomething(str) {
-    if (typeof str !== 'string') {
-        return "not string";
-    } else {
-        let trimed = str.trim();
-        if (trimed.length > 30) {
-            trimed.slice(0, 30);
-            return trimed;
-        }
-    }
-}
-
-
-
-
-str.trim();
-let res=
-*/
 
 function getSomething(str) {
     if (typeof str === 'string') {
